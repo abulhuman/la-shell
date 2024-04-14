@@ -17,7 +17,7 @@
 ## Instructions
 To use this shell first install the `readline` library using:
 ```bash
-sudo apt-get install libreadline-dev`
+sudo apt-get install libreadline-dev
 ```
 
 Then run the shell.sh file using:
